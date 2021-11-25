@@ -21,10 +21,12 @@ feature extraction and finally trained models on the obtained preprocessed data.
 3. SVM with various kernels on TF-IDF Data
 
 ## Requirments
-1. pandas
-2. matplotlib
-3. nltk
-4. scikit-learn
+1. matplotlib==3.2.0
+2. seaborn==0.10.0
+3. nltk==3.5
+4. numpy==1.17.4
+5. pandas==0.25.3
+6. scikit_learn==1.0.1
 
 ## How to Run
 Download the ipynb file and load the dataset folder. Then run each cell to obtain output
